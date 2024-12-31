@@ -65,10 +65,11 @@ My research interests mainly focus are Multimedia Learning, including Scene Grap
 [**Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization.**](https://arxiv.org/pdf/2405.15356) \\
 Beitao Chen, **Xinyu Lyu\***(Equal Corresponding), Lianli Gao*, Jingkuan Song and Heng Tao Shen. \\
 _Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024\\
-<a href="https://arxiv.org/pdf/2405.15356"> <strong>Paper</strong></a>
-\|
-<a href="https://github.com/BT-C/HIO"><strong>Code</strong></a> 
 
+<a href="https://github.com/BT-C/HIO"><strong>Code</strong></a>
+<!-- **Code**  -->
+[![](https://img.shields.io/github/stars/BT-C/HIO?style=social&label=Stars)](https://github.com/BT-C/HIO)
+<strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:UeHWp8X0CEIC'></span></strong>
 
 **Alleviating Hallucinations in LVLMs.**
 
