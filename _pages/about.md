@@ -58,7 +58,7 @@ My research interests mainly focus are Multimedia Learning, including Scene Grap
 </div>
 </div>
 
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/papers/Nips2024-halluciation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -67,7 +67,7 @@ Beitao Chen, **Xinyu Lyu\***(Equal Corresponding), Lianli Gao*, Jingkuan Song an
 _Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024\\
 
 <a href="https://github.com/BT-C/HIO"><strong>Code</strong></a>
-<!-- **Code**  -->
+
 [![](https://img.shields.io/github/stars/BT-C/HIO?style=social&label=Stars)](https://github.com/BT-C/HIO)
 <strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:UeHWp8X0CEIC'></span></strong>
 
@@ -76,7 +76,7 @@ _Advances in Neural Information Processing Systems 38: Annual Conference on Neur
 </div>
 </div>
 
-
+-->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/papers/cvpr23.png' alt="sym" width="100%" height="125%"></div></div>
 <div class='paper-box-text' markdown="1">
