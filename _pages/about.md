@@ -79,7 +79,7 @@ Lianli Gao, **Xinyu Lyu(Corresponding Author)**, Yuyu Guo, Yuxuan Hu, Yuan-Fang 
 <div class='paper-box-text' markdown="1">
   
 [**Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization.**](https://arxiv.org/pdf/2405.15356) \\
-Xinyu Lyu, Beitao Chen, Lianli Gao, Jingkuan Song and Heng Tao Shen. \\
+Xinyu Lyu*, **Beitao Chen\***(Equal Contribution), Lianli Gao, Jingkuan Song and Heng Tao Shen. \\
 _Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024\\
 
 <a href="https://github.com/BT-C/HIO"><strong>Code</strong></a>
