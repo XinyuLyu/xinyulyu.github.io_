@@ -83,7 +83,7 @@ Xinyu Lyu*, **Beitao Chen\***(Equal Contribution), Lianli Gao, Jingkuan Song and
 _Advances in Neural Information Processing Systems 38: Annual Conference on Neural Information Processing Systems_ (**NeurIPS**), 2024 \\
 
 <a href="https://github.com/BT-C/HIO"><strong>Code</strong></a>
-
+<!-- **Code**  -->
 [![](https://img.shields.io/github/stars/BT-C/HIO?style=social&label=Stars)](https://github.com/BT-C/HIO)
 <strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:UeHWp8X0CEIC'></span></strong>
 
