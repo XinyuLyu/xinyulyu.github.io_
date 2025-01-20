@@ -111,6 +111,7 @@ _Advances in Neural Information Processing Systems 38: Annual Conference on Neur
 </div>
 </div>
 
+ <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/papers/cvpr23.png' alt="sym" width="100%" height="125%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -119,7 +120,7 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 <a href="https://youtu.be/pMBYBYlmkNQ"><strong>Video</strong></a>
 \|
 <a href="https://github.com/VL-Group/PENET"><strong>Code</strong></a>
-<!-- **Code**  -->
+
 [![](https://img.shields.io/github/stars/VL-Group/PENET?style=social&label=Stars)](https://github.com/VL-Group/PENET)
 <strong><span class='show_paper_citations' data='kVcO9R4AAAAJ:W7OEmFMy1HYC'></span></strong>
 
@@ -127,7 +128,7 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 
 </div>
 </div>
-
+  -->
 
 
 
