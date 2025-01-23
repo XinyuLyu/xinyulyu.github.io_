@@ -127,12 +127,8 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 **Acquiring robust features for reliable relation prediction in SGG.**
 
 </div>
-</div>
-
-
-
-
-<!--- `NeurIPS 2024` [Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimizationg](https://arxiv.org/pdf/2405.15356), Beitao Chen, **Xinyu Lyu**, Lianli Gao, Jingkuan Song, Heng Tao Shen.-->
+</div> 
+-->
 - `Arxiv 2024` [ALF: Adaptive Label Finetuning for Scene Graph Generation](https://arxiv.org/abs/2312.17425.pdf), Qishen Chen, Jianzhi Liu, **Xinyu Lyu**, Lianli Gao, Jingkuan Song.
 - `Arxiv 2024` [Text-Video Retrieval with Global-Local Semantic Consistent Learning](https://arxiv.org/pdf/3312.17425.pdf), Haonan Zhang, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Yihang Duan, **Xinyu Lyu**, Haonan Zhang, Heng Tao Shen.
 - `Arxiv 2024` [A Sentence-Semantic-Based Watermark for Large Language Models Against Paraphrasing Attacks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774832), Han Wang, Lei Zhao, Xinyu Lyu, Lianli Gao, Jingkuan Song, Heng Tao Shen.
