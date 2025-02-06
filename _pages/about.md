@@ -25,6 +25,7 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2025.02*: &nbsp; One paper was accepted by IEEE Transactions on Image Processing (TIP 2025).
 - *2025.01*: &nbsp; One paper was accepted by Informative Scene Graph Generation via Debiasing(IJCV 2025).
 - *2024.09*: &nbsp; One paper was accepted by Conference on Neural Information Processing Systems(NeurIPS 2024).
 - *2023.11*: &nbsp; One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023).
@@ -129,10 +130,11 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 </div>
 </div> 
 -->
+- `TIP 2025` [Multi-Concept Learning for Scene Graph Generation](https://arxiv.org/pdf/2308.04802.pdf), **Xinyu Lyu**, Lianli Gao, Junlin Xie, Pengpeng Zeng, Yulu Tian, Jie Shao, Heng Tao Shen.
 - `Arxiv 2024` [ALF: Adaptive Label Finetuning for Scene Graph Generation](https://arxiv.org/abs/2312.17425.pdf), Qishen Chen, Jianzhi Liu, **Xinyu Lyu**, Lianli Gao, Jingkuan Song.
 - `Arxiv 2024` [Text-Video Retrieval with Global-Local Semantic Consistent Learning](https://arxiv.org/pdf/3312.17425.pdf), Haonan Zhang, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Yihang Duan, **Xinyu Lyu**, Haonan Zhang, Heng Tao Shen.
 - `Arxiv 2024` [A Sentence-Semantic-Based Watermark for Large Language Models Against Paraphrasing Attacks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774832), Han Wang, Lei Zhao, Xinyu Lyu, Lianli Gao, Jingkuan Song, Heng Tao Shen.
-- `Arxiv 2023` [Generalized Unbiased Scene Graph Generation](https://arxiv.org/pdf/2308.04802.pdf), **Xinyu Lyu**, Lianli Gao, Junlin Xie, Pengpeng Zeng, Yulu Tian, Jie Shao, Heng Tao Shen.
+- `CVPR 2023` [Prototype-based Embedding Network for Scene Graph Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Prototype-Based_Embedding_Network_for_Scene_Graph_Generation_CVPR_2023_paper.pdf), Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkuan Song.
 - `TCSVT 2023` [SPT: Spatial Pyramid Transformer for Image Captioning](https://xinyulyu.github.io/), Haonan Zhang, Pengpeng Zeng, Lianli Gao, **Xinyu Lyu**, Jingkuan Song, Heng Tao Shen.
 - `TCVST 2023` [Dual-branch hybrid learning network for unbiased scene graph generation](https://arxiv.org/pdf/2207.07913.pdf), Chaofan Zheng, Lianli Gao, **Xinyu Lyu**, Pengpeng Zeng, Abdulmotaleb El Saddik, Heng Tao Shen.
 - `ISAIR 2023` [Local-Global Information Interaction Debiasing for Dynamic Scene Graph Generation](https://arxiv.org/abs/2308.05274.pdf), **Xinyu Lyu**, Jingwei Liu, Yuyu Guo, Lianli Gao.
