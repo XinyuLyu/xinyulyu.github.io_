@@ -60,6 +60,7 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 </div>
 </div>
 
+<!---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/papers/ijcv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -67,7 +68,7 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 Lianli Gao, **Xinyu Lyu(Corresponding Author)**, Yuyu Guo, Yuxuan Hu, Yuan-Fang Li, Lu Xu, Heng Tao Shen, Jingkuan Song
 
 <a href="https://github.com/ZhuGeKongKong/SGG-G2S"><strong>Code</strong></a>
-<!-- **Code**  -->
+
 [![](https://img.shields.io/github/stars/ZhuGeKongKong/SGG-G2S?style=social&label=Stars)](https://github.com/ZhuGeKongKong/SGG-G2S)
 <strong><span class='show_paper_citations' data='MLqt214AAAAJ:IjCSPb-OGe4C'></span></strong>
 
@@ -75,6 +76,7 @@ Lianli Gao, **Xinyu Lyu(Corresponding Author)**, Yuyu Guo, Yuxuan Hu, Yuan-Fang 
 
 </div>
 </div>
+-->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/papers/Nips2024-halluciation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -112,7 +114,7 @@ _Advances in Neural Information Processing Systems 38: Annual Conference on Neur
 </div>
 </div>
 
-<!---
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/papers/cvpr23.png' alt="sym" width="100%" height="125%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -129,7 +131,7 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 
 </div>
 </div> 
--->
+
 - `TIP 2025` [Multi-Concept Learning for Scene Graph Generation](https://arxiv.org/pdf/2308.04802.pdf), **Xinyu Lyu**, Lianli Gao, Junlin Xie, Pengpeng Zeng, Yulu Tian, Jie Shao, Heng Tao Shen.
 - `Arxiv 2024` [ALF: Adaptive Label Finetuning for Scene Graph Generation](https://arxiv.org/abs/2312.17425.pdf), Qishen Chen, Jianzhi Liu, **Xinyu Lyu**, Lianli Gao, Jingkuan Song.
 - `Arxiv 2024` [Text-Video Retrieval with Global-Local Semantic Consistent Learning](https://arxiv.org/pdf/3312.17425.pdf), Haonan Zhang, Pengpeng Zeng, Lianli Gao, Jingkuan Song, Yihang Duan, **Xinyu Lyu**, Haonan Zhang, Heng Tao Shen.
