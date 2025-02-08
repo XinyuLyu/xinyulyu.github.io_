@@ -41,7 +41,7 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 - *2019.10*: &nbsp; One paper was accepted by ACM International Conference on Multimedia (ACM MM 2019).
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/papers/tpami.png' alt="sym" width="100%"></div></div>
@@ -77,11 +77,11 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/papers/ijcv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/papers/tip.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-Concept Learning for Scene Graph Generation](https://xinyulyu.github.io/) \\
-**Xinyu Lyu**, Lianli Gao(Corresponding Author), Junlin Xie, Pengpeng Zeng, Yulu Tian, Jie Shao, Heng Tao Shen
+**Xinyu Lyu**, Lianli Gao, Junlin Xie, Pengpeng Zeng, Yulu Tian, Jie Shao, Heng Tao Shen
 
 <a href="https://github.com/XinyuLyu/G-USGG"><strong>Code</strong></a>
 
