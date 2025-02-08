@@ -26,7 +26,7 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, c tempus justo dapibus sit amet.  -->
 - *2025.02*: &nbsp; One paper was accepted by IEEE Transactions on Image Processing (TIP 2025).
-- *2025.01*: &nbsp; One paper was accepted by Informative Scene Graph Generation via Debiasing(IJCV 2025).
+- *2025.01*: &nbsp; One paper was accepted by International Journal of Computer Vision(IJCV 2025).
 - *2024.09*: &nbsp; One paper was accepted by Conference on Neural Information Processing Systems(NeurIPS 2024).
 - *2023.11*: &nbsp; One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023).
 - *2023.07*: &nbsp; One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2023).
