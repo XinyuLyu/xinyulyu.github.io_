@@ -77,7 +77,7 @@ My research interests mainly focus are Multimedia Learning and AI Safety, icludi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/papers/tip.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/papers/tip.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-Concept Learning for Scene Graph Generation](https://xinyulyu.github.io/) \\
