@@ -68,7 +68,7 @@ Lianli Gao, **Xinyu Lyu(Corresponding Author)**, Yuyu Guo, Yuxuan Hu, Yuan-Fang 
 
 <a href="https://github.com/XinyuLyu/G-USGG"><strong>Code</strong></a>
 
-[![](https://img.shields.io/github/stars/ZhuGeKongKong/SGG-G2S?style=social&label=Stars)](https://github.com/XinyuLyu/G-USGG)
+[![](https://img.shields.io/github/stars/XinyuLyu/G-USGG?style=social&label=Stars)](https://github.com/XinyuLyu/G-USGG)
 <strong><span class='show_paper_citations' data='MLqt214AAAAJ:IjCSPb-OGe4C'></span></strong>
 
 **Addressing both predicate-level and concept-level imbalance issues for generalized unbiased SGG.**
