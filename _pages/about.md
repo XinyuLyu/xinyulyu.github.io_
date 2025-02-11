@@ -165,7 +165,7 @@ Chaofan Zheng*, **Xinyu Lyu\***(Equal Contribution), Lianli Gao, Bo Dai, Jingkua
 
 
 # 📖 Educations
-- *2020.09* - now, Ph.D. student, University of Electronic Science and Technology of China, Chengdu.
+- *2020.09* - *2024.06*, Ph.D. student, University of Electronic Science and Technology of China, Chengdu.
 - *2017.09* - 2019.06, Master student, Rutgers University, New Jersey. 
 - *2014.09* - 2018.06, Undergraduate, University of Electronic Science and Technology of China, Chengdu.
 
